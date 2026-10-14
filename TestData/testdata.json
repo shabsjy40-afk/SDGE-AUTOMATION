@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://ec2-stg-sdgegap.clearesult.io",
+
+  "httpCredentials": {
+    "username": "newsite",
+    "password": "saveenergy!"
+  },
+
+  "urls": {
+    "browseProduct": "https://ec2-stg-sdgegap.clearesult.io/browse-product"
+  }
+}
