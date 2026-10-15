@@ -1,5 +1,5 @@
 
-name: Playwright Automation Tests
+name: Playwright Tests
 
 on:
   push:
